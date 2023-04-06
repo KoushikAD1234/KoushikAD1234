@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fpreviews.123rf.com%2Fimages%2Fkarpenkoilia%2Fkarpenkoilia1806%2Fkarpenkoilia180600011%2F102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg&tbnid=dn7igWw0CILxSM&vet=12ahUKEwjAjoH105T-AhU6ELcAHURVBqIQMygCegUIARDUAQ..i&imgrefurl=https%3A%2F%2Fwww.123rf.com%2Fphoto_102988806_vector-line-web-concept-for-programming-linear-web-banner-for-coding.html&docid=BBpDUJK1y1YfqM&w=1300&h=515&q=banner%20coding&hl=en&ved=2ahUKEwjAjoH105T-AhU6ELcAHURVBqIQMygCegUIARDUAQ)](https://koushik-chakraborty.vercel.app/)
+[![MasterHead](./github-header-image.png)](https://koushik-chakraborty.vercel.app/)
 
 
 
@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-Hey 👋 I am Koushik Chakraborty<br><br>📍 Passionate FULL-STACK Developer.<br>📍 SDE Intern st DevCorps.<br>📍 Finalists at Devbhoomi Cyber Hackathon conducted by IIT Roorkee and Uttarakhand Police(Selected in the top 30 teams among 1000 teams).<br>📍 Solved 400+ Problem on Leetcode.<br>📍 Pre-final year engineering(ECE) student.<br>📍 Passionate about programming and always eager to learn new technology.
+<br>📍 Passionate FULL-STACK Developer.<br>📍 SDE Intern st DevCorps.<br>📍 Finalists at Devbhoomi Cyber Hackathon conducted by IIT Roorkee and Uttarakhand Police(Selected in the top 30 teams among 1000 teams).<br>📍 Solved 400+ Problem on Leetcode.<br>📍 Pre-final year engineering(ECE) student.<br>📍 Passionate about programming and always eager to learn new technology.
 
 
 ## 🌐 Socials:
