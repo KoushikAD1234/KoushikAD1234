@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-<br>📍 Software Engineer.<br>📍 SDE Intern at DevCorps.<br>📍 Finalists at Devbhoomi Cyber Hackathon conducted by IIT Roorkee and Uttarakhand Police(Selected in the top 30 teams among 1000 teams).<br>📍 Solved 400+ Problems on Leetcode.<br>📍 Pre-final year engineering(ECE) student.<br>📍 Passionate about programming and always eager to learn new technology.
+<br>📍 Software Engineer.<br>📍 SDE Intern at Tejas Networks.<br>📍 Finalists at Devbhoomi Cyber Hackathon conducted by IIT Roorkee and Uttarakhand Police(Selected in the top 30 teams among 1000 teams).<br>📍 Solved 400+ Problems on Leetcode.<br>📍 Pre-final year engineering(ECE) student.<br>📍 Passionate about programming and always eager to learn new technology.
 
 
 ## 🌐 Socials:
