@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-<br>📍 Software Engineer at Tejas Networks<br>📍 Experience: Tejas Networks | Devcorps IT solution and services.<br>📍 Got selected as finalist at buildspace S4 and invited to DUBAI for the product pitch worldwide | Finalists at Devbhoomi Cyber Hackathon conducted by IIT Roorkee and Uttarakhand Police(Selected in the top 30 teams among 1000 teams).<br>📍 Solved 700+ Problems on Leetcode | Expert @Codeforces | 4 star at Codechef<br>📍 Passionate about programming and always eager to learn new technology.
+<br>📍 Software Engineer.<br>📍 2+ yr of Experience: Tejas Networks | Devcorps IT solution and services.<br>📍 Got selected as finalist at buildspace S4 and invited to DUBAI for the product pitch worldwide | Finalists at Devbhoomi Cyber Hackathon conducted by IIT Roorkee and Uttarakhand Police(Selected in the top 30 teams among 1000 teams).<br>📍 Solved 700+ Problems on Leetcode | Expert @Codeforces | 4 star at Codechef<br>📍 Passionate about programming and always eager to learn new technology.
 
 
 ## 🌐 Socials:
